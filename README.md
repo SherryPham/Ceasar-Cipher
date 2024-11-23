@@ -9,7 +9,7 @@ The repo contains two files:
 encryption.java (encryption) - Used to encrypt a plaintext string.
 decryption.java (decryption) - Used to decrypt a ciphertext string.
 
-<img src="C:\Ceasar Cipher\CeasarCipher.jpeg" alt="Ceasar Cipher figure">
+<img src="/CeasarCipher.jpeg" alt="Ceasar Cipher figure">
 
 ## Abstract
 
